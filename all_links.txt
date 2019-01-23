@@ -1,0 +1,4 @@
+Caption	URL	Short URL
+my_github	https://github.com/robwec	http://bit.ly/2B1mlGP
+ducksearch	https://www.duckduckgo.com	http://bit.ly/2WcMOu3
+play a\ntheremin	https://post-stuff.neocities.org/theremin_sine/index.html	http://bit.ly/2S8PR7u

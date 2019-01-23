@@ -1,0 +1,6 @@
+python3 barcodes_30up.py "all_links.txt" "out_30up_sorted.pdf" "short" "sort=true"
+python3 barcodes_30up.py "all_links.txt" "out_30up_longurls_unsorted.pdf" "long" "N"
+
+python3 barcodes_4x6.py "all_links.txt" "out_4by6.pdf" "short" "N"
+python3 barcodes_individual.py "all_links.txt" "out_1x.pdf" "short" "N"
+
